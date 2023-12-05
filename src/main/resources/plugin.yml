@@ -1,0 +1,7 @@
+name: net.thegamesvault
+version: '${project.version}'
+main: me.josh.jreports.JReports
+api-version: 1.20
+authors: [ JBecconsall ]
+description: Simple to use reports plugin
+website: https://thegamesvault.net
