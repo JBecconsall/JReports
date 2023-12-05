@@ -1,0 +1,5 @@
+report-permission: 'report.send' # Permission to be able to send reports
+report-success: '&aYou have successfully reported &e<player>' # Variables: <player>
+admin-permission: 'jreports.admin'
+see-reports: 'reports.see'
+report-message: '&b[R] &c<sender> &ehas reported &c<target> &efor &c<reason>' # Variables: <sender> <target> <reason>

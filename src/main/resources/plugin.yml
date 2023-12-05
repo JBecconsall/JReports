@@ -1,7 +1,14 @@
-name: net.thegamesvault
+name: JReports
 version: '${project.version}'
 main: me.josh.jreports.JReports
-api-version: 1.20
+api-version: '1.20'
 authors: [ JBecconsall ]
 description: Simple to use reports plugin
 website: https://thegamesvault.net
+commands:
+  report:
+    description: Report a player
+    usage: /<command>
+  configreloadj:
+    description: Reload config
+    usage: /<command>
